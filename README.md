@@ -22,7 +22,7 @@
   <h5>ended Project:</h5>
   <h6><a href="#" target="_blank">Online vote</a></h6> 
   <p>RNCP 31114 exam's project, working but fake website</p>
-  *Closed because of bill. can be relaunched for test. *
+  _Closed because of bill. can be relaunched for test._
   
   <h6><a href="https://anthofor.github.io/shifumi/" target="_blank">ShiFuMi</a></h6>
   <p>Project made during my DWWM's formation. HTML/CSS/JS</p>
