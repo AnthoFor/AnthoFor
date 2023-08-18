@@ -25,5 +25,4 @@
   <i>Closed because of bill. can be relaunched for test.</i>
   
   <h4><a href="https://anthofor.github.io/shifumi/" target="_blank">ShiFuMi</a></h4>
-  <p>Project made during my DWWM's formation. HTML/CSS/JS</p>
-</p>4
+  <p>Project made during my DWWM's formation. HTML/CSS/JS</p></p>
