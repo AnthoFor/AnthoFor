@@ -12,18 +12,18 @@
 <!--   <a href="https://skillicons.dev"> -->
     <img src="https://skillicons.dev/icons?i=angular" />
     
-  <h5>Running Project:</h5>
+  <h4>Running Project:</h4>
   <h6><a href="#" target="_blank">ADC ToolBox</a></h6>
   <p>All train's drivers tools in one place</p>
   
-  <h6><a href="#" target="_blank">etlgenerator</a></h6>
+  <h4><a href="#" target="_blank">etlgenerator</a></h4>
   <p>Railway study generator for french train's drivers</p>
   
-  <h5>ended Project:</h5>
+  <h4>ended Project:</h4>
   <h6><a href="#" target="_blank">Online vote</a></h6> 
   <p>RNCP 31114 exam's project, working but fake website</p>
   <i>Closed because of bill. can be relaunched for test.</i>
   
-  <h6><a href="https://anthofor.github.io/shifumi/" target="_blank">ShiFuMi</a></h6>
+  <h4><a href="https://anthofor.github.io/shifumi/" target="_blank">ShiFuMi</a></h4>
   <p>Project made during my DWWM's formation. HTML/CSS/JS</p>
-</p>
+</p>4
