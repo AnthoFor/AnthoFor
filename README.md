@@ -10,10 +10,10 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,mysql,php&perline=3" />
 
   <h5>Frameworks:</h5>
-  <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,symfony" />
+  <img src="https://skillicons.dev/icons?i=bootstrap,tailwind" />
     
   <h5>Learning:</h5>
-  <img src="https://skillicons.dev/icons?i=angular" />
+  <img src="https://skillicons.dev/icons?i=nodejs" />
     
   <h4>Running Project:</h4>
   <h6><a href="#" target="_blank">ADC ToolBox</a></h6>
@@ -29,8 +29,17 @@
 
   <h4><a href="https://anthony-foret.fr" target="_blank">my online CV</a></h4>
   <p>Project made during my DWWM's formation. HTML/CSS/JS, hosted on AWS Amplify.</p>
-  <p>Actually making a new version, with iOS theme. 25% done (20/08/2023)</p>
+  <i>Actually making a new version, with iOS theme. 50% done (01/11/2023)</i>
   
   <h4><a href="https://anthofor.github.io/shifumi/" target="_blank">ShiFuMi</a></h4>
+  <p>Project made during my DWWM's formation. HTML/CSS/JS, hosted on github pages.</p>
+  <i>Mini shifumi game base on mortal kombat theme.</i>
+
+  <h4><a href="https://anthofor.github.io/theMovieDatabase/" target="_blank">The Movie Database</a></h4>
+  <p>Project made during my DWWM's formation. HTML/CSS/JS, hosted on github pages.</p>
+  <i>Fetch training.</i>
+
+  <h4><a href="https://anthofor.github.io/pokekilo/" target="_blank">pokekilo</a></h4>
   <p>Project made during my DWWM's formation. HTML/CSS/JS, hosted on github pages</p>
+  <i>fake e-shop to increase our skills on fetch and localstorage. Group project.</i>
 </p>
