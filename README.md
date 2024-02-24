@@ -1,19 +1,18 @@
 <h1 align="center">Hi 👋, I'm Anthony</h1>
 <h3 align="center">I'm a web developer</h3>
 
+<h5 align="center">Last update : nodeJs 24/02/2024</h5>
+
 <p align="center">
   <h5>Tools:</h5>
 <!--   <a href="https://skillicons.dev"> -->
   <img src="https://skillicons.dev/icons?i=github,vscode,aws,xd,ai,ps&perline=3" />
   
   <h5>Skills:</h5>
-  <img src="https://skillicons.dev/icons?i=html,css,js,mysql,php&perline=3" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,mysql,php,nodejs&perline=3" />
 
   <h5>Frameworks:</h5>
   <img src="https://skillicons.dev/icons?i=bootstrap,tailwind" />
-    
-  <h5>Learning:</h5>
-  <img src="https://skillicons.dev/icons?i=nodejs" />
     
   <h4>Running Project:</h4>
   <h6><a href="#" target="_blank">ADC ToolBox</a></h6>
@@ -22,7 +21,7 @@
   <h4><a href="#" target="_blank">etlgenerator</a></h4>
   <p>Railway study generator for french train's drivers</p>
   
-  <h4>ended Project:</h4>
+  <h4>Ended Project:</h4>
   <h6><a href="#" target="_blank">Online vote</a></h6> 
   <p>RNCP 31114 exam's project, working but fake website</p>
   <i>Closed because of bill. can be relaunched for test. hosted on AWS EC2.</i>
