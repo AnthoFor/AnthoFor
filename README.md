@@ -6,10 +6,10 @@
 <p align="center">
   <h5>Tools:</h5>
 <!--   <a href="https://skillicons.dev"> -->
-  <img src="https://skillicons.dev/icons?i=github,vscode,aws,xd,ai,ps&perline=3" />
+  <img src="https://skillicons.dev/icons?i=github,vscode,aws,xd,ai,ps&perline=6" />
   
   <h5>Skills:</h5>
-  <img src="https://skillicons.dev/icons?i=html,css,js,mysql,php,nodejs&perline=3" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,mysql,php,nodejs&perline=6" />
 
   <h5>Frameworks:</h5>
   <img src="https://skillicons.dev/icons?i=bootstrap,tailwind" />
